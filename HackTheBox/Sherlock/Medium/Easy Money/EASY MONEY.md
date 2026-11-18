@@ -1,8 +1,3 @@
-﻿---
-title: HACKTHEBOX SHERLOCK EASY MONEY
-
----
-
 # HACKTHEBOX SHERLOCK EASY MONEY
 
 **Sherlock scenario**: John is an employee at a mid-sized tech company. He works as a Senior IT support specialist, but his true passion is finding ways to make extra money. John is always on the lookout for giveaways, discounts, and any opportunity to earn a quick buck. Heâ€™s not particularly tech-savvy when it comes to cybersecurity, but heâ€™s resourceful and knows how to follow online tutorials.
